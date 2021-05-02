@@ -65,7 +65,7 @@ function Contact() {
         <div className="contactinfo">
           <div className="head">Website:</div>
           <div className="sub-title">
-            https://friendly-turing-0e411b.netlify.app/
+            https://kausavkumar.netlify.app/
           </div>
         </div>
       </div>
