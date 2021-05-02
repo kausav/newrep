@@ -33,6 +33,17 @@ function Home() {
               />
             </span>
           </div>
+          <div className="myicons">
+            <a href="mailto:kausavkumar23@gmail.com">
+              <i class="fas fa-envelope"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/kausav-kumar">
+              <i class="fab fa-linkedin"></i>
+            </a>
+            <a href="skype:live:.cid.b2fea734ff15d6bd">
+              <i class="fab fa-skype"></i>
+            </a>
+          </div>
           <div className="home-btns">
             <a href="/pdfs/resume2.pdf">
               <Button

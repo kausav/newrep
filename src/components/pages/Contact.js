@@ -56,7 +56,7 @@ function Contact() {
         <i className="fab fa-linkedin"></i>
         <div className="contactinfo">
           <div className="head">LinkedinID:</div>
-          <div className="sub-title">www.linkedin.com/in/kausav-kumar</div>
+          <div className="sub-title">https://www.linkedin.com/in/kausav-kumar</div>
         </div>
       </div>
 

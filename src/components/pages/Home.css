@@ -41,6 +41,25 @@
   color: rgb(32, 32, 129);
 }
 
+.myicons i{
+  
+  padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background-color: #fff;
+  color: orange;
+  border-radius: 50%;
+}
+
+.myicons i:hover{
+  
+  padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background-color: orange;
+  color: #fff;
+  border-radius: 50%;
+}
 @media screen and (max-width: 1100px) {
   .home-content .text1 {
     font-size: 27px;
