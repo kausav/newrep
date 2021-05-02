@@ -21,8 +21,10 @@ function Contact() {
       <div className="name">
         <i className="fas fa-user"></i>
         <div className="contactinfo">
-          <div className="head">Name:</div>
-          <div className="sub-title">Kausav Kumar</div>
+          <div className="latestname">
+            <div className="head">Name:</div>
+            <div className="sub-title">Kausav Kumar</div>
+          </div>
         </div>
       </div>
 
@@ -39,16 +41,20 @@ function Contact() {
       <div className="email">
         <i className="fas fa-envelope"></i>
         <div className="contactinfo">
-          <div className="head">EmailID:</div>
-          <div className="sub-title">kausavkumar23@gmail.com</div>
+          <div className="latestmail">
+            <div className="head">EmailID:</div>
+            <div className="sub-title">kausavkumar23@gmail.com</div>
+          </div>
         </div>
       </div>
 
       <div className="mob">
         <i className="fas fa-phone-alt"></i>
         <div className="contactinfo">
-          <div className="head">Mob:</div>
-          <div className="sub-title">8168563218,9465189863</div>
+          <div className="latestmob">
+            <div className="head">Mob:</div>
+            <div className="sub-title">8168563218,9465189863</div>
+          </div>
         </div>
       </div>
 
@@ -56,16 +62,18 @@ function Contact() {
         <i className="fab fa-linkedin"></i>
         <div className="contactinfo">
           <div className="head">LinkedinID:</div>
-          <div className="sub-title">https://www.linkedin.com/in/kausav-kumar</div>
+          <div className="sub-title">
+            https://www.linkedin.com/in/kausav-kumar
+          </div>
         </div>
       </div>
 
       <div className="indiweb">
         <i className="fas fa-tv"></i>
         <div className="contactinfo">
-          <div className="head">Website:</div>
-          <div className="sub-title">
-            https://kausavkumar.netlify.app/
+          <div className="latest">
+            <div className="head">Website:</div>
+            <div className="sub-title">https://kausavkumar.netlify.app/</div>
           </div>
         </div>
       </div>

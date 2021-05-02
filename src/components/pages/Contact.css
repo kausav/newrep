@@ -101,6 +101,22 @@
 .contactinfo {
   display: block;
   color: #fff;
-  padding-left: 30px;
+  margin-left: 40px;
   font-size: 20px;
+}
+
+.contactinfo .latest {
+  margin-left: -20px;
+}
+
+.contactinfo .latestmob {
+  margin-left: -10px;
+}
+
+.contactinfo .latestmail{
+  margin-left: -10px;
+}
+
+.contactinfo .latestname{
+  margin-left: -5px;
 }
