@@ -1,11 +1,12 @@
 import React from "react";
 
 import "../../App.css";
+import "./Resume.css";
 
 
 function Resume() {
   return (
-    <div>
+    <div className="resinfo">
       For more information and details <a href="/pdfs/resume2.pdf"> Click Here</a>.
     </div>
   );
