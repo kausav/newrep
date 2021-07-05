@@ -49,7 +49,7 @@ function About() {
         </p>
         <p>
           <span> So, if you</span> want someone reliable and efficient worker
-           <a href="/pdfs/resume2.pdf"> Hire me</a> because I never leave my work unfinished.
+           <a href="/pdfs/resume.pdf"> Hire me</a> because I never leave my work unfinished.
         </p>
       </div>
     </section>

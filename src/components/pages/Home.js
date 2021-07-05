@@ -45,7 +45,7 @@ function Home() {
             </a>
           </div>
           <div className="home-btns">
-            <a href="/pdfs/resume2.pdf">
+            <a href="/pdfs/resume.pdf">
               <Button
                 className="btns"
                 buttonStyle="btn--outline"
